@@ -81,7 +81,7 @@ Player objects are an optional feature in Netcode you can use to assign a networ
 
 :::note
 
-If you want a client to control more than on NetworkObject, use the ownership methods described above under the ownership section.
+If you want a client to control more than one NetworkObject, use the ownership methods described above under the ownership section.
 
 If you want to be able to assign a unique player Prefab on a per client connection basis, use client [connection approval](connection-approval.md).
 
